@@ -1,2 +1,6 @@
 *.png
 pictures/
+.Rproj.user
+recipes.Rproj
+.Rhistory
+.RData
